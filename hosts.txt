@@ -22,7 +22,7 @@
 127.0.0.1  localhost
 ::1  localhost
 ||vnexpress.net^$client='222.252.0.0'
-
+||vnexpress.net^$important
 #[s.eclick.vn]
 127.0.0.1 s.eclick.vn
 127.0.0.1 www.googletagservices.com
